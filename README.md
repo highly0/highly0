@@ -1,7 +1,7 @@
 ### Hi!😃 My name is Hai (pronounced like "hi", no pun intended)
 
 - 🔭 I currently hold a BsC. in Computer science from the [University of Maryland](https://umd.edu/) and a MsC. with distinction in Mathematics and Computer science from the [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/). 
-- 🌱 I’m currently working on Large Language Models and KGQA (Knowledge Graph Question Answering) systems. I'm also exloring potential PhD positions in NLP!
+- 🌱 I’m an applied Research Engineer at [VinAI](https://www.vinai.io/) working on Generative AI and AI Optimization. I previously research Large Language Models \& KGQA (Knowledge Graph Question Answering) systems at Skoltech. I'm cyrrebtky also exloring potential PhD positions in NLP!
 - 👯 I’m looking to collaborate on any projects that studies the behavior/understanding of LLMs and other NLP subfields including machine translation, generative models, information retrieval, text mining, etc...
 - ⚡ In my free time, I am a competitive powerlifter! I like to teach computers to say bad words and lift heavy circles 🤠
 
